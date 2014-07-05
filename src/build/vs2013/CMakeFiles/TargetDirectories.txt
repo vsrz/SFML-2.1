@@ -1,8 +1,0 @@
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/CMakeFiles/ALL_BUILD.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/CMakeFiles/ZERO_CHECK.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/Audio/CMakeFiles/sfml-audio.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/Main/CMakeFiles/sfml-main.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/Network/CMakeFiles/sfml-network.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/System/CMakeFiles/sfml-system.dir
-C:/Users/vsrz/Documents/GitHub/SFML-2.1/src/build/vs2013/src/SFML/Window/CMakeFiles/sfml-window.dir
